@@ -31,4 +31,4 @@ python study_focus_guard.py
 - Browser tab detection relies on the title of the currently focused tab, not a full list of background tabs.
 
 
-Được hỗ trợ tạo bởi Claude
+Được hỗ trợ tạo bởi Claude / Created with the support of Claude
