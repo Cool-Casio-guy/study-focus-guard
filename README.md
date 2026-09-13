@@ -1,6 +1,6 @@
 # Study Focus Guard
 
-For English user, please use (README_en)[./README_en.md]
+For English user, please use [README_en](./README_en.md)
 
 Một công cụ Python nhỏ giúp bạn tập trung học bài bằng cách kiểm tra các cửa sổ/tab trình duyệt đang mở, và tự động đóng bất kỳ thứ gì không liên quan đến việc học trong lúc bạn đang trong phiên tập trung.
 
