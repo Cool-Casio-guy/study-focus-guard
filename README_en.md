@@ -1,5 +1,7 @@
 # Study Focus Guard
 
+Nếu là người dùng Tiếng Việt, hãy xem [README](./README.md)
+
 A small Python tool that helps you stay focused while studying by checking your open windows/browser tabs, and auto-closing anything that isn't study-related during your focus session.
 
 ## How it works
