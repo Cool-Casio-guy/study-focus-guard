@@ -25,3 +25,5 @@ python study_focus_guard.py
 
 - Auto-closing windows is fully supported on **Windows** only (a `pygetwindow` limitation). On macOS/Linux the tool will still detect and warn you, just not force-close the window.
 - Browser tab detection relies on the title of the currently focused tab, not a full list of background tabs.
+
+Created with the support of Claude
